@@ -1,3 +1,9 @@
+/*
+
+    by:Rafael Borges Morais
+
+*/
+
 #include <iostream>
  
 using namespace std;
@@ -18,6 +24,7 @@ int main() {
  
     int n, i;
     int cont = 0;
+
     int result;
 
     cin >> n;
