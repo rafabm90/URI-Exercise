@@ -1,3 +1,10 @@
+/*
+    
+    by: Rafael Borges Morais
+
+*/
+
+
 #include <iostream>
 #include <iomanip>
 #include <cstring>
@@ -7,7 +14,7 @@ using namespace std;
 
 int main()
 {
-    int n, m[50], dias = 0, soma = 0;
+    int n, m[200], dias = 0, soma = 0;
 
     while(1){
         cin >> n;
@@ -25,4 +32,5 @@ int main()
         dias = 0;
         soma = 0;
     }
+    cout << endl;
 }
